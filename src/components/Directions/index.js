@@ -2,7 +2,7 @@
  * Created: Anderson Xavier,
  * Date: 19/06/2019,
  * Follow: @andersonx. 
- * Desafio: Rocketseat teste github
+ * Desafio: Rocketseat
  */
 
 import React from 'react';
